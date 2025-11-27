@@ -1,0 +1,2 @@
+Khi tin nhắn mới đến, tab chat chưa nhảy lên đầu luôn
+User đó online, lúc thì hiện chấm xanh, lúc thì không hiện chấm xanh
